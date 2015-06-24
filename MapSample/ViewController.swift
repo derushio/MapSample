@@ -60,6 +60,13 @@ class ViewController: UIViewController, MKMapViewDelegate {
         theRoppongiAnnotation.title       = "Point"
         theRoppongiAnnotation.subtitle    = "Message"
         mapView!.addAnnotation(theRoppongiAnnotation)
+        
+        // ズーム機能
+        var span: MKCoordinateSpan = MKCoordinateSpanMake(1, 1);
+        var region: MKCoordinateRegion = MKCoordinateRegion(center: mapPoint, span: MKCoordinateSpanMake(1, 1))
+        mapView!.setRegion(region, animated: true)
+        // ズーム機能
+        
         // ここまでピンを立てるサンプル
     }
 }

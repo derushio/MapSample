@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>39A7EE23-FD01-4A5B-A9BC-8BB854E4046B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MapSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6380EF0C4C2F3C17848E43016931934BC479B031</key>
+		<string>https://github.com/narumi18wa/MapSample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MapSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6380EF0C4C2F3C17848E43016931934BC479B031</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/narumi18wa/MapSample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6380EF0C4C2F3C17848E43016931934BC479B031</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6380EF0C4C2F3C17848E43016931934BC479B031</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MapSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
